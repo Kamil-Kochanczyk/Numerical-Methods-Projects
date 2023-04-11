@@ -1,0 +1,7 @@
+Smallest sigma for equidistant nodes
+f1: N = 8, sigma = 0.24727675558191575
+f2: N = 8, sigma = 0.28412819180999227
+
+Smallest sigma for nodes dense on the edges
+f1: N = 25, sigma = 0.008164883785205967
+f2: N = 25, sigma = 0.0008215621355652757

@@ -1,0 +1,28 @@
+Previous results:
+
+Smallest sigma for equidistant nodes
+f1: N = 8, sigma = 0.24727675558191575
+f2: N = 8, sigma = 0.28412819180999227
+
+Smallest sigma for nodes dense on the edges
+f1: N = 25, sigma = 0.008164883785205967
+f2: N = 25, sigma = 0.0008215621355652757
+
+
+
+Current results:
+
+Spline interpolation
+f1: N = 7, sigma < 0.24727675558191575
+f2: N = 7, sigma < 0.28412819180999227
+
+f1: N = 21, sigma < 0.008164883785205967
+f2: N = 37, sigma < 0.0008215621355652757
+
+Sinc interpolation
+f1: N = 7, sigma < 0.24727675558191575
+f2: N = 7, sigma < 0.28412819180999227
+
+f1: N = doesn't exist, sigma < 0.008164883785205967 (impossible - rapid descend)
+f2: N = 17, sigma < 0.0008215621355652757
+

@@ -1,0 +1,25 @@
+epsilon = 1e-5:
+
+Metoda relaksacyjna: 717395
+Metoda Jacobiego: 550006
+Metoda Gaussa-Seidela: 306889
+Successive Over Relaxation: 617447
+
+
+
+epsilon = 1e-10:
+
+Metoda relaksacyjna: 4954134
+Metoda Jacobiego: 2668373
+Metoda Gaussa-Seidela: 1366072
+Successive Over Relaxation: 3795006
+
+
+
+epsilon = 1e-3:
+
+Metoda relaksacyjna: 2150
+Metoda Jacobiego: 4290
+Metoda Gaussa-Seidela: 3400
+Successive Over Relaxation: 2366
+
